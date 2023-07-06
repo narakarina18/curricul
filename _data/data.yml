@@ -5,32 +5,29 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
+  email: karinanara17@gmail.com
+  phone:(84) 99606-6191
   website: https://yourwebsite.com
   linkedin: stevedoe
-  github: stevedoe
+  github: narakarina18
   gitlab:
   bitbucket:
-  twitter: "@stevedoe"
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
-    level: Native
-  - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
+  - idiom: Português 
+    level: Nativo
+  
 
 interests:
-  - name: Climbing
+  - name: Culinária 
     link:
-  - name: Snowboarding
+  - name: Gosto de música 
     link:
-  - name: Cooking
+  - name: estudar 
     link:
 
 summary: |
@@ -42,10 +39,10 @@ summary: |
   Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
+  - degree: Ensino fundamental 
+    university: Manoel de barros
+    time: 2016-2019
+    details: 
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -53,9 +50,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Ensino médio 
+    university: João de abreu
+    time: 2020 - 2022
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +63,9 @@ education:
         - Bullet point
 
 experiences:
-  - role: Lead Developer
+  - role: vendora externa
     time: 2018 - Present
-    company: Startup Hub
+    company: Empresa da minha mãe.
     details: |
       Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
       Aenean commodo ligula eget dolor. Aenean massa.
